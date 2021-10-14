@@ -4,7 +4,7 @@ import pandas as pd
 import time
 from PIL import Image
 
-st.title('Streamlit　超入門')
+st.title('Streamlit Demo App')
 
 #プログレスバーの表示
 st.write('[Site Download]')
